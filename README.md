@@ -9,3 +9,7 @@
       modify by adding "THANK YOU"
       THANK YOU~
       `
+
+12:28 git committed, and will modify. 
+      will try to add and commit at the same time
+
