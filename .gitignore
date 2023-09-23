@@ -1,0 +1,8 @@
+
+*.pb
+!test.pb
+ignore_test/
+/Todo
+doc/*.txt
+doc/**/*.pdf
+
